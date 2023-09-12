@@ -1,0 +1,19 @@
+.layout {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.navigation {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	background-color: blanchedalmond;
+	padding: 20px 30px;
+	font-size: 18px;
+	color: black;
+}
+
+.footer {
+	margin-top: auto;
+}
